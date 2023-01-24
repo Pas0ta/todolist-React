@@ -8,8 +8,8 @@
 
 body {
     background: linear-gradient(90deg,
-            rgb(34, 27, 245) 0%,
-            rgba(100, 115, 255, 1) 100%);
+            rgb(0, 0, 0) 0%,
+            rgb(30, 33, 201) 100%);
 }
 
 .todo-app {
@@ -52,9 +52,9 @@ h1 {
 .todo-input {
     padding: 14px 32px 14px 16px;
     border-radius: 4px 0 0 4px;
-    border: 2px solid rgba(17, 122, 255, 1);
+    border: 2px solid rgb(255, 17, 77);
     outline: none;
-    width: 320px;
+    width: 150px;
 }
 
 .todo-button {
